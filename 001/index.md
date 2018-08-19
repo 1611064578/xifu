@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>我们的100天</title>
 </head>
-    <img src="1.jpg"/>
+    <img src="./images/1.jpg"/>
 <body>
 <h1>迟到的七夕情书</h1>
 <p>媳妇，我们在一起100天了</p>
